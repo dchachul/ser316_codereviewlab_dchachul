@@ -9,7 +9,6 @@ public class Checking extends Account {
 		super(name);
 	}
 
-
 	public Checking(String name, float balance) {
 		super(name, balance);
 	}
